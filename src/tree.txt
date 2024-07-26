@@ -1,0 +1,5 @@
+TerminaLite/
+├── src/
+│   └── terminallite.c
+├── Makefile
+└── README.md
