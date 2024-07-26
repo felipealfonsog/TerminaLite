@@ -25,13 +25,13 @@ TerminaLite* is a lightweight and versatile terminal emulator designed for both 
 
 [![View Screenshots](https://img.shields.io/badge/View-Screenshots-yellow)](#)
 
-<!-- 
+
 #### Screenshot macOS
 
 <p align="center">
-  <img src="./images/mac-sshot.png" alt="Screenshot macOS" width="400" height="350">
+  <img src="./images/macos-sshot.png" alt="Screenshot macOS" width="400" height="350">
 </p>
-
+<!-- 
 #### Screenshot Linux (Arch)
 
 <p align="center">
