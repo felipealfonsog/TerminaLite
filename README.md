@@ -5,8 +5,8 @@ TerminaLite* is a lightweight and versatile terminal emulator designed for both 
 
 <sub>* This is currently an experimental phase where the primary focus is on making the system functional and establishing a practical and logical pathway that aligns with both my vision and the project's goals. It might contain errors, bugs, etc. Many other non-core elements of the project are considered secondary.</sub>
 
-![Version](https://img.shields.io/github/release/felipealfonsog/NovaNav.svg?style=flat&color=blue)
-![Main Language](https://img.shields.io/github/languages/top/felipealfonsog/NovaNav.svg?style=flat&color=blue)
+![Version](https://img.shields.io/github/release/felipealfonsog/TerminaLite.svg?style=flat&color=blue)
+![Main Language](https://img.shields.io/github/languages/top/felipealfonsog/TerminaLite.svg?style=flat&color=blue)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 
@@ -18,6 +18,30 @@ TerminaLite* is a lightweight and versatile terminal emulator designed for both 
 
 [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+
+#
+
+#### Screenshots*
+
+[![View Screenshots](https://img.shields.io/badge/View-Screenshots-yellow)](#)
+
+<!-- 
+#### Screenshot macOS
+
+<p align="center">
+  <img src="./images/mac-sshot.png" alt="Screenshot macOS" width="400" height="350">
+</p>
+
+#### Screenshot Linux (Arch)
+
+<p align="center">
+  <img src="./images/arch-sshot.png" alt="Screenshot Linux" width="400" height="350">
+</p>
+
+
+-->
+
+<sub>* This project is still under development. Future updates may include changes to the GUI, and screenshots may not accurately reflect the final design.</sub>
 
 #
 
