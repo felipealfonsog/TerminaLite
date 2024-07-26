@@ -32,7 +32,7 @@ TerminaLite* is a lightweight and versatile terminal emulator designed for both 
   <img src="./images/macos-sshot.png" alt="Screenshot macOS" width="400" height="350">
 </p>
 
-<!-- 
+
 #### Screenshot Linux (Arch)
 
 <p align="center">
@@ -40,9 +40,38 @@ TerminaLite* is a lightweight and versatile terminal emulator designed for both 
 </p>
 
 
+<sub>* This project is still under development. Future updates may include changes to the GUI, and screenshots may not accurately reflect the final design.</sub>
+
+#
+
+#### Installation (Arch Linux)*
+#### Via AUR using YAY
+
+[![AUR](https://img.shields.io/aur/version/termlite)](https://aur.archlinux.org/packages/termlite)
+
+<!-- 
+[![AUR](https://img.shields.io/aur/version/termlite.svg)](https://aur.archlinux.org/packages/termlite)
 -->
 
-<sub>* This project is still under development. Future updates may include changes to the GUI, and screenshots may not accurately reflect the final design.</sub>
+<!-- 
+https://aur.archlinux.org/packages/termlite
+-->
+
+TerminaLite (termlite on AUR) is available on AUR (Arch User Repository), and it can be installed using the `yay` package manager. Follow the steps below to install:
+
+1. Make sure you have `yay` installed. If not, you can install it with the following command:
+   
+   ```
+   sudo pacman -S yay
+   ```
+   Once yay is installed, you can install it by running the following command:
+   
+   ```
+   yay -S termlite
+   ```
+This command will automatically fetch the package from AUR and handle the installation process for you.
+You can find TerminaLite App in your program menu!
+
 
 #
 
