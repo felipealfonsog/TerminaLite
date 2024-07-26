@@ -31,6 +31,7 @@ TerminaLite* is a lightweight and versatile terminal emulator designed for both 
 <p align="center">
   <img src="./images/macos-sshot.png" alt="Screenshot macOS" width="400" height="350">
 </p>
+
 <!-- 
 #### Screenshot Linux (Arch)
 
